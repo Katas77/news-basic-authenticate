@@ -1,6 +1,5 @@
 package com.example.news_basic_authenticat.service;
 
-
 import com.example.news_basic_authenticat.model.Comment;
 import org.springframework.http.ResponseEntity;
 

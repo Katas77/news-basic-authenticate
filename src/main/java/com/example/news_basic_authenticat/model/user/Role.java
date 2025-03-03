@@ -1,6 +1,5 @@
 package com.example.news_basic_authenticat.model.user;
 
-
 import jakarta.persistence.*;
 import lombok.Data;
 import lombok.EqualsAndHashCode;

@@ -1,6 +1,4 @@
-
 package com.example.news_basic_authenticat.aop;
-
 
 import com.example.news_basic_authenticat.exception.UnauthorizedAccessException;
 import com.example.news_basic_authenticat.model.user.RoleType;
@@ -17,7 +15,6 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Component;
 
 import java.util.Objects;
-
 
 @Aspect
 @Component

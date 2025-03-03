@@ -1,7 +1,5 @@
 package com.example.news_basic_authenticat.web.mapper;
 
-
-
 import com.example.news_basic_authenticat.model.user.User;
 import com.example.news_basic_authenticat.web.dto.user.CreateUserRequest;
 import com.example.news_basic_authenticat.web.dto.user.UserListResponse;
@@ -9,7 +7,6 @@ import com.example.news_basic_authenticat.web.dto.user.UserResponse;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.ReportingPolicy;
-
 import java.util.List;
 import java.util.stream.Collectors;
 

@@ -1,7 +1,5 @@
 package com.example.news_basic_authenticat.service.impl;
 
-
-
 import com.example.news_basic_authenticat.model.Comment;
 import com.example.news_basic_authenticat.repository.CommentRepository;
 import com.example.news_basic_authenticat.service.CommentService;
@@ -13,7 +11,6 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
-
 import java.text.MessageFormat;
 import java.util.List;
 import java.util.Optional;

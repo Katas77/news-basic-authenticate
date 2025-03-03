@@ -1,7 +1,5 @@
 package com.example.news_basic_authenticat.web.mapper;
 
-
-
 import com.example.news_basic_authenticat.model.Comment;
 import com.example.news_basic_authenticat.web.dto.comment.CommentListResponse;
 import com.example.news_basic_authenticat.web.dto.comment.CommentResponse;
@@ -10,7 +8,6 @@ import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.ReportingPolicy;
 import org.springframework.security.core.userdetails.UserDetails;
-
 import java.util.List;
 import java.util.stream.Collectors;
 

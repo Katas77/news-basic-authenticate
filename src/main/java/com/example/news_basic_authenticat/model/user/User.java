@@ -1,7 +1,4 @@
-
 package com.example.news_basic_authenticat.model.user;
-
-
 
 import com.example.news_basic_authenticat.model.Comment;
 import com.example.news_basic_authenticat.model.News;
@@ -10,7 +7,6 @@ import lombok.*;
 
 import java.util.ArrayList;
 import java.util.List;
-
 
 @Getter
 @Setter

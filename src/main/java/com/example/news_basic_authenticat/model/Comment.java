@@ -1,7 +1,4 @@
-
 package com.example.news_basic_authenticat.model;
-
-
 
 import com.example.news_basic_authenticat.model.user.User;
 import jakarta.persistence.*;

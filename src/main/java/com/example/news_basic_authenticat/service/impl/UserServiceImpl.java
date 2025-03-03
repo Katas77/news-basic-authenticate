@@ -1,7 +1,5 @@
 package com.example.news_basic_authenticat.service.impl;
 
-
-
 import com.example.news_basic_authenticat.exception.EntityNotFoundException;
 import com.example.news_basic_authenticat.model.user.Role;
 import com.example.news_basic_authenticat.model.user.RoleType;
@@ -19,7 +17,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
-
 import java.text.MessageFormat;
 import java.util.Collections;
 import java.util.List;

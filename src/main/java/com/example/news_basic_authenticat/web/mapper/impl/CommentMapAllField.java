@@ -1,7 +1,5 @@
 package com.example.news_basic_authenticat.web.mapper.impl;
 
-
-
 import com.example.news_basic_authenticat.model.Comment;
 import com.example.news_basic_authenticat.model.News;
 import com.example.news_basic_authenticat.model.user.User;
@@ -14,7 +12,6 @@ import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Primary;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Component;
-
 import javax.annotation.processing.Generated;
 
 @Generated(

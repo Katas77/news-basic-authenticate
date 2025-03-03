@@ -1,13 +1,10 @@
 package com.example.news_basic_authenticat.security;
 
-
-
 import com.example.news_basic_authenticat.model.user.Role;
 import com.example.news_basic_authenticat.model.user.User;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
-
 import java.util.Collection;
 
 @RequiredArgsConstructor

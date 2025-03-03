@@ -1,7 +1,5 @@
 package com.example.news_basic_authenticat.web.mapper;
 
-
-
 import com.example.news_basic_authenticat.model.News;
 import com.example.news_basic_authenticat.web.dto.news.NewsListResponse;
 import com.example.news_basic_authenticat.web.dto.news.NewsResponse;
@@ -11,10 +9,8 @@ import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.ReportingPolicy;
 import org.springframework.security.core.userdetails.UserDetails;
-
 import java.util.List;
 import java.util.stream.Collectors;
-
 
 @Mapper(componentModel = "spring", unmappedTargetPolicy = ReportingPolicy.IGNORE)
 public interface NewsMapper {

@@ -1,8 +1,4 @@
-
-
 package com.example.news_basic_authenticat.controller;
-
-
 
 import com.example.news_basic_authenticat.aop.AllowedNewsDell;
 import com.example.news_basic_authenticat.aop.AllowedNewsUpdate;

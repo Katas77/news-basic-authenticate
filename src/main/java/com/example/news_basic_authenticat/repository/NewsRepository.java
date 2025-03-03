@@ -1,7 +1,5 @@
 package com.example.news_basic_authenticat.repository;
 
-
-
 import com.example.news_basic_authenticat.model.News;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
